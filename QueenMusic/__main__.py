@@ -26,7 +26,7 @@ import os
 
 from pyrogram import idle
 
-from FallenMusic import (
+from FallenMusic.config import (
     ASS_ID,
     ASS_NAME,
     ASS_USERNAME,
